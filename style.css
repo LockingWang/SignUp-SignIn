@@ -1,0 +1,10 @@
+.signUp, .signIn {
+    border: 2px solid;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.send {
+    margin-top: 5px;
+}
